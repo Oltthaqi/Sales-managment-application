@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Arka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|c:\\users\\admin\\source\\repos\\arka\\arka\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|C:\\Users\\Admin\\source\\repos\\Arka\\arka\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|c:\\users\\admin\\source\\repos\\arka\\arka\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|C:\\Users\\Admin\\source\\repos\\Arka\\arka\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|c:\\users\\admin\\source\\repos\\arka\\arka\\perfundoshitjenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\perfundoshitjenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|C:\\Users\\Admin\\source\\repos\\Arka\\arka\\perfundoshitjenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\perfundoshitjenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|c:\\users\\admin\\source\\repos\\arka\\arka\\addproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\addproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|C:\\Users\\Admin\\source\\repos\\Arka\\arka\\addproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\addproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|c:\\users\\admin\\source\\repos\\arka\\arka\\editproducts2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\editproducts2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|C:\\Users\\Admin\\source\\repos\\Arka\\arka\\editproducts2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\editproducts2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|C:\\Users\\Admin\\source\\repos\\Arka\\arka\\editproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\editproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|c:\\users\\admin\\source\\repos\\arka\\arka\\editproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\editproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|c:\\users\\admin\\source\\repos\\arka\\arka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|C:\\Users\\Admin\\source\\repos\\Arka\\arka\\properties\\setting.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\properties\\setting.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|c:\\users\\admin\\source\\repos\\arka\\arka\\dbconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\dbconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|C:\\Users\\Admin\\source\\repos\\Arka\\arka\\dbconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\dbconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|c:\\users\\admin\\source\\repos\\arka\\arka\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|C:\\Users\\Admin\\source\\repos\\Arka\\arka\\shitjetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B434A31B-98F7-4CA3-ACC8-ECA1037F4E5D}|Arka\\Arka.csproj|solutionrelative:arka\\shitjetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "Arka\\ProductsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\ProductsForm.cs",
+              "RelativeToolTip": "Arka\\ProductsForm.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:53:44.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "Arka\\ProductsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\ProductsForm.cs [Design]",
+              "RelativeToolTip": "Arka\\ProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:53:43.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProductsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\AddProductsForm.cs",
+              "RelativeDocumentMoniker": "Arka\\AddProductsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\AddProductsForm.cs",
+              "RelativeToolTip": "Arka\\AddProductsForm.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:53:27.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\SalesForm.cs",
+              "RelativeDocumentMoniker": "Arka\\SalesForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\SalesForm.cs",
+              "RelativeToolTip": "Arka\\SalesForm.cs",
+              "ViewState": "AQIAAD0BAAAAAAAAAAAewFsBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:06:33.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditProductsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\EditProductsForm.cs",
+              "RelativeDocumentMoniker": "Arka\\EditProductsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\EditProductsForm.cs",
+              "RelativeToolTip": "Arka\\EditProductsForm.cs",
+              "ViewState": "AQIAABsBAAAAAAAAAAAnwDQBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:39:50.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\SalesForm.cs",
+              "RelativeDocumentMoniker": "Arka\\SalesForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\SalesForm.cs [Design]",
+              "RelativeToolTip": "Arka\\SalesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:41:32.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "setting.settings",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\Properties\\setting.settings",
+              "RelativeDocumentMoniker": "Arka\\Properties\\setting.settings",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\Properties\\setting.settings",
+              "RelativeToolTip": "Arka\\Properties\\setting.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-09-20T07:32:58.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\Program.cs",
+              "RelativeDocumentMoniker": "Arka\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\Program.cs",
+              "RelativeToolTip": "Arka\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:33:08.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddProductsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\AddProductsForm.cs",
+              "RelativeDocumentMoniker": "Arka\\AddProductsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\AddProductsForm.cs [Design]",
+              "RelativeToolTip": "Arka\\AddProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:52:28.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PerfundoShitjenForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\PerfundoShitjenForm.cs",
+              "RelativeDocumentMoniker": "Arka\\PerfundoShitjenForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\PerfundoShitjenForm.cs [Design]",
+              "RelativeToolTip": "Arka\\PerfundoShitjenForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:16:14.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PerfundoShitjenForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\PerfundoShitjenForm.cs",
+              "RelativeDocumentMoniker": "Arka\\PerfundoShitjenForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\PerfundoShitjenForm.cs",
+              "RelativeToolTip": "Arka\\PerfundoShitjenForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:16:19.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditProductsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\EditProductsForm.cs",
+              "RelativeDocumentMoniker": "Arka\\EditProductsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\EditProductsForm.cs [Design]",
+              "RelativeToolTip": "Arka\\EditProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:43:09.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditProducts2Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\EditProducts2Form.cs",
+              "RelativeDocumentMoniker": "Arka\\EditProducts2Form.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\EditProducts2Form.cs [Design]",
+              "RelativeToolTip": "Arka\\EditProducts2Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:43:08.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditProducts2Form.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\EditProducts2Form.cs",
+              "RelativeDocumentMoniker": "Arka\\EditProducts2Form.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\EditProducts2Form.cs",
+              "RelativeToolTip": "Arka\\EditProducts2Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:02:08.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\App.config",
+              "RelativeDocumentMoniker": "Arka\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\App.config",
+              "RelativeToolTip": "Arka\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-20T07:45:18.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbConnectionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\DbConnectionForm.cs",
+              "RelativeDocumentMoniker": "Arka\\DbConnectionForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\DbConnectionForm.cs [Design]",
+              "RelativeToolTip": "Arka\\DbConnectionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:01:13.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbConnectionForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\DbConnectionForm.cs",
+              "RelativeDocumentMoniker": "Arka\\DbConnectionForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\DbConnectionForm.cs",
+              "RelativeToolTip": "Arka\\DbConnectionForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:01:38.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShitjetForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\ShitjetForm.cs",
+              "RelativeDocumentMoniker": "Arka\\ShitjetForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Arka\\Arka\\ShitjetForm.cs [Design]",
+              "RelativeToolTip": "Arka\\ShitjetForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:15:47.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
